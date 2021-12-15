@@ -168,3 +168,8 @@ F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\CompanyVHL867\Delete
 F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\CompanyVHL867\Details.cshtml.g.cs
 F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\CompanyVHL867\Edit.cshtml.g.cs
 F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\CompanyVHL867\Index.cshtml.g.cs
+F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\VHL0867\Create.cshtml.g.cs
+F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\VHL0867\Delete.cshtml.g.cs
+F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\VHL0867\Details.cshtml.g.cs
+F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\VHL0867\Edit.cshtml.g.cs
+F:\VuHienLinh867\VuHienLinh867\obj\Debug\net5.0\Razor\Views\VHL0867\Index.cshtml.g.cs

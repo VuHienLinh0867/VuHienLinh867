@@ -13,4 +13,6 @@ using VUHIENLINH867.Models;
         }
 
         public DbSet<VUHIENLINH867.Models.CompanyVHL867> CompanyVHL867 { get; set; }
+
+        public DbSet<VUHIENLINH867.Models.VHL0867> VHL0867 { get; set; }
     }
