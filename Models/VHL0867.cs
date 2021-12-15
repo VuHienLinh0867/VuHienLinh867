@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace VUHIENLINH867.Models
 {
     [Table("VHL0867")]
-    public class VHL0867 
+    public class VHL0867 : StringProcessVHL867
     {
         [Key]
         [StringLength(20)]
